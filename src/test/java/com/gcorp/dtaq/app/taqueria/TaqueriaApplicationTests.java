@@ -1,0 +1,13 @@
+package com.gcorp.dtaq.app.taqueria;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TaqueriaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
